@@ -9,8 +9,7 @@ If there are some interesting things, I will post them in two repositories. One 
 
 ## Introduction of Finished Projects
 
-### [GlomPaint](https://github.com/ChenxiiGuo/javaProjects#introdution-of-glompaint)
-##### [Source code](https://github.com/ChenxiiGuo/javaProjects/tree/master/GlomPaint)
+### [GlomPaint] ([Source code of GlomPaint])
 ##### Key words: Java, JavaFx, Algorithms, GUI
 The aim of this project is to develop a software which is used to help AI researchers to label images.
 The weired name GlomPaint comes from my project developed for Bristol Renal Team and the purpose of this project is to develop a software which could detect glomeruli(a group of vessels in kidney) and calculate their size.
@@ -38,3 +37,6 @@ This project contains four different parts. The first part is to build a binary 
 ##### Key words: Python, OpenCV, Computer Vision, Machine learning, CNNs, Image segmentation
 
 In this project, a software will be developed and Bristol Renal Team will use it in their research. This software can detect glomeruli(a thing in kidney) and automatically calculate the volume of thw glomeruli. This [image](https://github.com/ChenxiiGuo/glomDetector/blob/master/Introduction/addedValue.png) shows the different between current method and improved method(This project).
+
+[GlomPaint]: https://github.com/ChenxiiGuo/javaProjects#introdution-of-glompaint
+[Source code of GlomPaint]: https://github.com/ChenxiiGuo/javaProjects/tree/master/GlomPaint
