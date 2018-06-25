@@ -9,8 +9,8 @@ If there are some interesting things, I will post them in two repositories. One 
 
 ## Introduction of Finished Projects
 
-### [GlomPaint] ([Source code of GlomPaint])
-##### Key words: Java, JavaFx, Algorithms, GUI
+### [GlomPaint]
+##### Key words: Java, JavaFx, Algorithms, GUI ([Source code of GlomPaint])
 The aim of this project is to develop a software which is used to help AI researchers to label images.
 The weired name GlomPaint comes from my project developed for Bristol Renal Team and the purpose of this project is to develop a software which could detect glomeruli(a group of vessels in kidney) and calculate their size.
 
