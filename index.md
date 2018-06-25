@@ -1,8 +1,12 @@
 # Blog of Chenxi
-## Learning blog
+## [Learning blog](#learning-blog)
 ## [Finished projects](#introduction-of-finished-projects)
 ## [Ongoing projects](#introduction-of-ongoing-projects)
 
+### Learning blog
+If there are some interesting things, I will post them in two repositories.
+
+One is about [algorithms and datastructure](https://github.com/ChenxiiGuo/DataStructure-Algorithm), the [other](https://github.com/ChenxiiGuo/learningNotes) is about language.
 
 
 ### Introduction of Finished Projects
