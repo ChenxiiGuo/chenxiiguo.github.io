@@ -1,4 +1,3 @@
-# Blog of Chenxi
 * [Learning blog](#learning-blog)
 * [Finished projects](#introduction-of-finished-projects)
 * [Ongoing projects](#introduction-of-ongoing-projects)
