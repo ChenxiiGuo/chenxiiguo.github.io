@@ -27,7 +27,11 @@ This project contains four different parts. The first part is to build a binary 
 
 ### [PeliBook](https://github.com/ChenxiiGuo/groupWorks#introduction-of-pelibook)
 ##### [Source code of PeilBook] | Key words: Java, JavaFX, Teamwork, GUI, Algorithms, Game
-In this project, we developed a game called PeliBook which could teach children how to use social medias. This game has been played by sevel children and they enjoy it. 
+In this project, we developed a game called PeliBook which could teach children how to use social medias. This game has been played by sevel children and they enjoy it.
+
+### [FitnessSite](https://github.com/ChenxiiGuo/groupWorks#introduction-of-fitnesssite)
+#### [Source code of FitnessSite] | Key words: Javascript, Node.js, Web, Teamwork, database
+In this project, we developed a [website](http://159.65.28.157:8090)(Please note that this website will be frequently updated and there will be some maintenance). We developed all program from scrach and both front-end, back-end and the database are designed and finished by ourselves.
 
 
 ## Introduction of ongoing projects
@@ -35,7 +39,7 @@ In this project, we developed a game called PeliBook which could teach children 
 ### [glomDetector](https://github.com/ChenxiiGuo/glomDetector/blob/master/readme.md#introduction-of-this-project)
 ##### [Source code of glomDetector] | Key words: Python, OpenCV, Computer Vision, Machine learning, CNNs, Image segmentation
 
-In this project, a software will be developed and Bristol Renal Team will use it in their research. This software can detect glomeruli(a thing in kidney) and automatically calculate the volume of thw glomeruli. This [image](https://github.com/ChenxiiGuo/glomDetector/blob/master/Introduction/addedValue.png) shows the different between current method and improved method(This project).
+In this project, a software will be developed and Bristol Renal Team will use it in their research. This software can detect glomeruli(a thing in kidney) and automatically calculate the volume of thw glomeruli. This [image](https://github.com/ChenxiiGuo/glomDetector/blob/master/Introduction/addedValue.png) shows the different between current method and improved method which is the aim of this project.
 
 [GlomPaint]: https://github.com/ChenxiiGuo/javaProjects#introdution-of-glompaint
 [Source code of GlomPaint]: https://github.com/ChenxiiGuo/javaProjects/tree/master/GlomPaint
@@ -43,4 +47,5 @@ In this project, a software will be developed and Bristol Renal Team will use it
 [Source code of TeletextParser]: https://github.com/ChenxiiGuo/cProjects/tree/master/TeltextParser
 [Source code of Binary Search Tree]: https://github.com/ChenxiiGuo/cProjects/tree/master/binarySearchTree
 [Source code of glomDetector]: https://github.com/ChenxiiGuo/glomDetector
-[Source code of PeilBook]: https://github.com/ChenxiiGuo/groupWorks/tree/master/PelicanSLM|
+[Source code of PeilBook]: https://github.com/ChenxiiGuo/groupWorks/tree/master/PelicanSLM
+[Source code of FitnessSite]: https://github.com/ChenxiiGuo/groupWorks/tree/master/fitnessSite
