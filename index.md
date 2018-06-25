@@ -5,6 +5,7 @@
 ## Learning blog
 If there are some interesting things, I will post them in two repositories. One is about [algorithms and datastructure](https://github.com/ChenxiiGuo/DataStructure-Algorithm), the [other](https://github.com/ChenxiiGuo/learningNotes) is about language.
 
+***
 
 ## Introduction of Finished Projects
 
@@ -30,8 +31,10 @@ This project contains four different parts. The first part is to build a binary 
 In this project, we developed a game called PeliBook which could teach children how to use social medias. This game has been played by sevel children and they enjoy it.
 
 ### [FitnessSite](https://github.com/ChenxiiGuo/groupWorks#introduction-of-fitnesssite)
-#### [Source code of FitnessSite] | Key words: Javascript, Node.js, Web, Teamwork, database
+##### [Source code of FitnessSite] | Key words: Javascript, Node.js, Web, Teamwork, database
 In this project, we developed a [website](http://159.65.28.157:8090)(Please note that this website will be frequently updated and there will be some maintenance). We developed all program from scrach and both front-end, back-end and the database are designed and finished by ourselves.
+
+***
 
 
 ## Introduction of ongoing projects
