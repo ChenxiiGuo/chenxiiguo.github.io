@@ -9,13 +9,13 @@ If there are some interesting things, I will post them in two repositories. One 
 ## Introduction of Finished Projects
 
 ### [GlomPaint]
-##### [Source code of GlomPaint] | Key words: Java, JavaFx, Algorithms, GUI
+##### [Source code of GlomPaint] | Key words: Java, JavaFX, Algorithms, GUI
 The aim of this project is to develop a software which is used to help AI researchers to label images.
 The weired name GlomPaint comes from my project developed for Bristol Renal Team and the purpose of this project is to develop a software which could detect glomeruli(a group of vessels in kidney) and calculate their size.
 
 ### [HomeDB](https://github.com/ChenxiiGuo/javaProjects#introdution-of-homedb)
 ##### [Source code of HomeDB] | Key words: Java, Datastructure
-The aim of this project is to develop a homemade database. It support 11 different queries.
+The aim of this project is to develop a homemade database. It is also based on tree(TreeMap rather than B-tree) and it supports 11 different queries.
 
 ### [TeletextParser](https://github.com/ChenxiiGuo/cProjects#introduction-of-teltextparser)
 ##### [Source code of TeletextParser] | Key words: C, Hash, Image Recognition, Computer Architecture
@@ -24,6 +24,10 @@ The project contains three different parts. The first part is "telToImage" which
 ### [Binary Search Tree](https://github.com/ChenxiiGuo/cProjects#introduction-of-binarysearchtree)
 ##### [Source code of Binary Search Tree] | Key words: C, Datastructure, Algorithms
 This project contains four different parts. The first part is to build a binary search tree and develop some methods for it, such as simple print, calculation of the depth, reblance a binary search tree and so on. The second part is to develop a program which could print binary search tree with its structure, so it is also called "Prettier Print". The third part is to develop a hash table and compare the difference between the BST and hash table. The fourth part is to do some research on threaded binary tree.
+
+### [PeliBook](https://github.com/ChenxiiGuo/groupWorks#introduction-of-pelibook)
+##### [Source code of PeilBook] | Key words: Java, JavaFX, Teamwork, GUI, Algorithms, Game
+In this project, we developed a game called PeliBook which could teach children how to use social medias. This game has been played by sevel children and they enjoy it. 
 
 
 ## Introduction of ongoing projects
@@ -39,3 +43,4 @@ In this project, a software will be developed and Bristol Renal Team will use it
 [Source code of TeletextParser]: https://github.com/ChenxiiGuo/cProjects/tree/master/TeltextParser
 [Source code of Binary Search Tree]: https://github.com/ChenxiiGuo/cProjects/tree/master/binarySearchTree
 [Source code of glomDetector]: https://github.com/ChenxiiGuo/glomDetector
+[Source code of PeilBook]: https://github.com/ChenxiiGuo/groupWorks/tree/master/PelicanSLM|
