@@ -53,8 +53,7 @@ In this project, a software will be developed and Bristol Renal Team will use it
 
 This software can detect glomeruli(a thing in kidney) and automatically calculate the volume of thw glomeruli.
 
-This images shows the different between current method and improved method(This project).
-![image](https://github.com/ChenxiiGuo/glomDetector/blob/master/Introduction/addedValue.png)
+This [image](https://github.com/ChenxiiGuo/glomDetector/blob/master/Introduction/addedValue.png) shows the different between current method and improved method(This project).
 
 
 
