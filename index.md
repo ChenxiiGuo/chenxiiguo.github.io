@@ -24,7 +24,7 @@ The aim of this project is to develop a homemade database. It support 11 differe
 ##### Key words: C, Hash, Image Recognition, Computer Architecture
 The project contains three different parts.
 
-The first part is "telToImage" which transfer [Teletext](http://www.bbcbasic.co.uk/tccgen/manual/tcgen2.html) to a kind of image(http://teletext.mb21.co.uk/gallery/ceefax/main1.shtml).
+The first part is "telToImage" which transfer [Teletext](http://www.bbcbasic.co.uk/tccgen/manual/tcgen2.html) to a kind of [images](http://teletext.mb21.co.uk/gallery/ceefax/main1.shtml).
 
 The second part is "imageToTel" which transfer an image into a series of Teletext code. Some image recognition methods are used.
 
