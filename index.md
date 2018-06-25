@@ -33,7 +33,7 @@ The third part is to do unit test.
 #### [Binary Search Tree](https://github.com/ChenxiiGuo/cProjects#introduction-of-binarysearchtree)
 ##### [Source code](https://github.com/ChenxiiGuo/cProjects/tree/master/binarySearchTree)
 ##### Key words: C, Datastructure, Algorithms
-This projects contains four different parts.
+This project contains four different parts.
 
 This first part is to build a binary search tree and develop some methods for it, such as simple print, calculation of the depth, reblance a binary search tree and so on.
 
@@ -44,6 +44,17 @@ The third part is to develop a hash table and compare the difference between the
 The fourth part is to do some research on threaded binary tree.
 
 ### Introduction of ongoing projects
+
+#### [glomDetector](https://github.com/ChenxiiGuo/glomDetector/blob/master/readme.md#introduction-of-this-project)
+##### [Source code](https://github.com/ChenxiiGuo/glomDetector)
+##### Key words: Python, OpenCV, Computer Vision, Machine learning, CNNs, Image segmentation
+
+In this project, a software will be developed and Bristol Renal Team will use it in their research.
+
+This software can detect glomeruli(a thing in kidney) and automatically calculate the volume of thw glomeruli.
+
+This images shows the different between current method and improved method(This project).
+![image](https://github.com/ChenxiiGuo/glomDetector/blob/master/Introduction/addedValue.png)
 
 
 
