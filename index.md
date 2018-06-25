@@ -1,7 +1,7 @@
 # Blog of Chenxi
 ## Learning blog
-## [Introduction of finished projects](#introduction-of-finished-projects)
-## [Introduction of ongoing projects](#introduction-of-ongoing-projects)
+## [Finished projects](#introduction-of-finished-projects)
+## [Ongoing projects](#introduction-of-ongoing-projects)
 
 
 
