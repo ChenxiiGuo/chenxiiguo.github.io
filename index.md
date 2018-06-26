@@ -31,7 +31,7 @@ This project contains four different parts. The first part is to build a binary 
 In this project, we developed a game called PeliBook which could teach children how to use social medias. This game has been played by sevel children and they enjoy it.
 
 ### [FitnessSite](https://github.com/ChenxiiGuo/groupWorks#introduction-of-fitnesssite)
-##### [Source code of FitnessSite] | Key words: Javascript, Node.js, Web, Teamwork, database
+##### [Source code of FitnessSite] | Key words: JavaScript, Node.js, Web, Teamwork, database
 In this project, we developed a [website](http://159.65.28.157:8090)(Please note that this website will be frequently updated and there will be some maintenance). We developed all program from scrach and both front-end, back-end and the database are designed and finished by ourselves.
 
 ***
