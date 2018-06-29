@@ -5,6 +5,8 @@
 ## Learning blog
 If there are some interesting things, I will post them in two repositories. One is about [algorithms and datastructure](https://github.com/ChenxiiGuo/DataStructure-Algorithm), the [other](https://github.com/ChenxiiGuo/learningNotes) is about language.
 
+Now, I add a new blog which is more comfortable to read. You can visit is [here](https://github.com/ChenxiiGuo/chenxiiguo.github.io/blob/master/techBlog.md).
+
 ***
 
 ## Introduction of Finished Projects
