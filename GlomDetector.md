@@ -1,4 +1,4 @@
-# GlomPaint 
+# GlomDetector
 
 ## HandPicked filter banks (29/June/2018)
 Today, two problem was solved(Partly).
