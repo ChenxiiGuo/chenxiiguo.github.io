@@ -5,7 +5,9 @@ Today, two problem was solved(Partly).
 
 First, the wavelength and the standard deviation of the gabor filters are decided.
 
-I use a very simple way to find a good gabor filter bank. I printed all possible combinations of (the wavelength and the standard deviation). The result is [here](https://github.com/ChenxiiGuo/glomDetector/blob/master/developmentLog/images/shortWave.png) and [here](https://github.com/ChenxiiGuo/glomDetector/blob/master/developmentLog/images/longWave.png). 
+I use a very simple way to find a good gabor filter bank. I printed all possible combinations of (the wavelength and the standard deviation). There two images shows the result of these combinations.
+![image](https://github.com/ChenxiiGuo/glomDetector/blob/master/developmentLog/images/shortWave.png) 
+![image](https://github.com/ChenxiiGuo/glomDetector/blob/master/developmentLog/images/longWave.png). 
 
 Finally, the filter bank is like this.
 
