@@ -23,3 +23,15 @@ There are two very straight method do max() or min() in each pixel?
 
 This [image](https://github.com/ChenxiiGuo/glomDetector/blob/master/developmentLog/images/MaxVsMin.png)
 shows that min() is better
+
+## Finished the development by using gabor filters(3/July/2018)
+
+The gabor filters combine with KNN works well.
+
+This image shows the results for a high quality image. It works well.
+
+However, there are still some problems. 
+
+Firstly, some cells are in the needle and it should not be counted as glomeruli which is required by Bristol Renal Team. However, using gabor cannot avoid this due to the fact that the texture of these cells are similar to the glomeruli part.
+
+Secondly, if the background is not pure, then the result is not good. This image shows when the background is not pure, the false postive problem is serious. However, in pratical jobs, this is not a serious problem since researchers in Bristol Renal Team can avoid these videos. 
