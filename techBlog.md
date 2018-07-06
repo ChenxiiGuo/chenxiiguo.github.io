@@ -10,3 +10,5 @@ Key words: Computer vision, CNNs, OpenCV, Python, Matlab, Software Engineering
 (Some of these blogs comes from [original file](https://github.com/ChenxiiGuo/DataStructure-Algorithm), I just rewrite them.)
 
 Key words: Data Structure, algorithms.
+
+## [Problems in Java](https://github.com/ChenxiiGuo/chenxiiguo.github.io/blob/master/languages/JavaProblems.md)
