@@ -36,11 +36,6 @@ In this project, we developed a game called PeliBook which could teach children 
 ##### [Source code of FitnessSite] | Key words: JavaScript, Node.js, Web, Teamwork, database
 In this project, we developed a [website](http://159.65.28.157:8090)(Please note that this website will be frequently updated and there will be some maintenance). We developed all program from scrach and both front-end, back-end and the database are designed and finished by ourselves.
 
-***
-
-
-## Introduction of ongoing projects
-
 ### [glomDetector](https://github.com/ChenxiiGuo/glomDetector/blob/master/readme.md#introduction-of-this-project)
 ##### [Source code of glomDetector] | Key words: Python, OpenCV, Computer Vision, Machine learning, CNNs, Image segmentation
 
